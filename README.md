@@ -1,3 +1,3 @@
-# solidity-lottery-dapp
+# Solidity Lottery Dapp
 
-Smart contract implementation for a Solidity based lottery
+Smart contract implementation for a Solidity based lottery using chainlink oracle provider
